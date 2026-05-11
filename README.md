@@ -1,4 +1,3 @@
-# Embedding_myself
 # Embedded Systems Learning Journey
 
 This repository documents my learning journey in Embedded Systems, VLSI, and hardware design.
