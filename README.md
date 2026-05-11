@@ -8,8 +8,6 @@ This repository documents my learning journey in Embedded Systems, VLSI, and har
 - Data Structures
 - Microcontrollers
 - Embedded C
-- Arduino
-- STM32
 - RTOS
 - Verilog
 - FPGA
